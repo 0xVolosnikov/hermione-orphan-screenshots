@@ -1,13 +1,13 @@
 {
   "name": "hermione-orphan-screenshots",
   "version": "1.0.0",
-  "description": "Searches for screenshots that are no longer used",
+  "description": "Plugin for controlling screenshots that are no longer used",
   "main": "index.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git@github.yandex-team.ru:Volosnikov/hermione-orphan-screenshots.git"
+    "url": "git@github.com:Vladyan18/hermione-orphan-screenshots.git"
   },
   "keywords": [
     "hermione",

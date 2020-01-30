@@ -1,0 +1,22 @@
+{
+  "name": "hermione-orphan-screenshots",
+  "version": "1.0.0",
+  "description": "Searches for screenshots that are no longer used",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.yandex-team.ru:Volosnikov/hermione-orphan-screenshots.git"
+  },
+  "keywords": [
+    "hermione",
+    "plugin",
+    "screenshots"
+  ],
+  "author": "Vladislav Volosnikov <Volosnikov.apmath@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}

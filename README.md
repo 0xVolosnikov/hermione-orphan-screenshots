@@ -6,7 +6,7 @@
 ## Установка
 
 ```bash
-$ npm i hermione-orphan-screenshots
+$ npm i --save-dev hermione-orphan-screenshots
 ```
 
 ## Использование

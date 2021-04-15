@@ -3,6 +3,8 @@
 Плагин для [hermione](https://github.com/gemini-testing/hermione), отслеживающий наличие «потерянных» скриншотов, которые не используются ни одним из тестов.
 Подробнее почитать о плагинах можно в [документации](https://github.com/gemini-testing/hermione#plugins).
 
+https://www.npmjs.com/package/hermione-orphan-screenshots
+
 ## Установка
 
 ```bash
